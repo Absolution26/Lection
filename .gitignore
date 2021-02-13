@@ -2,7 +2,7 @@
 *.swp
 *.bmp
 *.gif
-.vscode
+###.vscode
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
